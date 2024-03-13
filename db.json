@@ -1,0 +1,78 @@
+{
+  "user": [
+    {
+      "id": "3378",
+      "firstname": "YVES",
+      "lastname": "Narson",
+      "email": "kevine@gmail.com",
+      "password": "0000000",
+      "passwordConfirm": "0000000",
+      "imgProfil": "https://img.freepik.com/photos-gratuite/vue-face-femme-enfants-ecole_23-2149547947.jpg?t=st=1708899407~exp=1708900007~hmac=7731ef3bdd5b3266d0da7c93e0aa18744cb37071a7f7a20098957a7c52a9ca89"
+    },
+    {
+      "id": "6b82",
+      "firstname": "Viviane",
+      "lastname": "TELOVAVY",
+      "email": "telovavyviviane@yahoo.fr",
+      "password": "00000000",
+      "passwordConfirm": "00000000",
+      "imgProfil": "https://img.freepik.com/photos-gratuite/femme-africaine-enseignant-aux-enfants-classe_23-2148892563.jpg?w=996&t=st=1708909285~exp=1708909885~hmac=6b608b84a535a13abd5070b24f98dbdfc8dc6efada6d6dc1d606c25ed2028a8f"
+    },
+    {
+      "id": "6bbe",
+      "firstname": "Narindra",
+      "lastname": "Ratsimo",
+      "email": "narindraratsimo@gmail.com",
+      "password": "00000000",
+      "passwordConfirm": "00000000",
+      "imgProfil": "https://img.freepik.com/photos-premium/enfants-plan-moyen-enseignant-discutant_23-2149038791.jpg?w=996"
+    },
+    {
+      "id": "5b37",
+      "firstname": "Lotoka",
+      "lastname": "Marivo",
+      "email": "yvesnarsonkevin@yahoo.fr",
+      "password": "00000000",
+      "passwordConfirm": "00000000",
+      "imgProfil": "https://img.freepik.com/photos-gratuite/senior-professeur-masculin-expliquer-ecrire-au-tableau-vert_23-2148200956.jpg?w=996&t=st=1708909471~exp=1708910071~hmac=307ce25cc9712b04205bf2fd2362c370274bc19be8d526a515d155bd318faf9e"
+    }
+  ],
+  "post": [
+    {
+      "id": "eb4a",
+      "postPub": "Voici mon premier publication ",
+      "linkImage": "https://img.freepik.com/photos-gratuite/smiley-femme-parlant-au-telephone-coup-moyen_23-2149476757.jpg?w=740&t=st=1708895086~exp=1708895686~hmac=e115895795f801cca03e335702e32c4a9bc0c5d12e9ef63c934762c33a8dfc06",
+      "idUser": "3378",
+      "datePost": "2024-02-26T00:59:54.181Z",
+      "likePost": 0,
+      "author": "YVES"
+    },
+    {
+      "id": "8b04",
+      "postPub": "Je suis nouveau sur le site",
+      "linkImage": "https://img.freepik.com/psd-premium/fenetre-verre-transparent-maquette-logo-entreprise_23-2149631229.jpg?w=740",
+      "idUser": "6bbe",
+      "datePost": "2024-02-26T01:36:55.859Z",
+      "likePost": 0,
+      "author": "Narindra"
+    },
+    {
+      "id": "58f0",
+      "postPub": "Ma number une pub",
+      "linkImage": "https://img.freepik.com/photos-gratuite/peinture-lac-montagne-montagne-arriere-plan_188544-9126.jpg?w=996&t=st=1708912229~exp=1708912829~hmac=d614cdf85eea40d102c6d71b3e1a9262af05c4ca4f2d14d747ec874ede23a8fa",
+      "idUser": "6b82",
+      "datePost": "2024-02-26T01:50:36.172Z",
+      "likePost": 0,
+      "author": "Viviane"
+    },
+    {
+      "id": "10fd",
+      "postPub": "Je test une nouvelle fonctionalité",
+      "linkImage": "https://lh3.googleusercontent.com/pSbX31vkSYPvOMrghIDKdoMUs6c-491tsNoN7G3A1-cevOaA-gs6mzenMbIKLCuyK2QAON5htkTyI5-xuGZY-5qZSi7L_A2a9E9_5qmocQ=s0",
+      "idUser": "3378",
+      "datePost": "2024-02-26T15:51:13.710Z",
+      "likePost": 0,
+      "author": "YVES Narson"
+    }
+  ]
+}
